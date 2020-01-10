@@ -1,0 +1,12 @@
+{
+  "name": "socket-chat-example",
+  "version": "0.0.1",
+  "description": "socket.io app",
+  "main": "index.js",
+  "repository": "git@github.com:AjanShrestha/socket-chat-example.git",
+  "author": "Ajan Lal Shrestha <ajan.shresh@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "4.17.1"
+  }
+}
